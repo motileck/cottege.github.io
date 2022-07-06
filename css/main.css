@@ -57,6 +57,7 @@ ul,li {
    font-size: 25px;
    line-height: 105%;
    white-space: nowrap;
+   transition: 0.5s all;
    
 }
 .menu li a:hover{
@@ -756,6 +757,7 @@ line-height: 105%;
    font-size: 25px;
    line-height: 105%;
    white-space: nowrap;
+   transition: 0.5s all;
    
 }
 #footer .menu2 li a:hover{
